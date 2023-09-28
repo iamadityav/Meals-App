@@ -1,3 +1,15 @@
+<img width="380" alt="Meals1" src="https://github.com/iamadityav/Meals-App/assets/70755876/f637e3c1-2a71-4368-adde-6136900a4a2b">
+
+
+
+<img width="377" alt="Meals2" src="https://github.com/iamadityav/Meals-App/assets/70755876/249e4d87-b397-46a1-9fec-21b2fa569d03">
+
+
+
+
+<img width="377" alt="Meals3" src="https://github.com/iamadityav/Meals-App/assets/70755876/a1952f65-7ef4-46ce-ba2c-aef5917884a0">
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
